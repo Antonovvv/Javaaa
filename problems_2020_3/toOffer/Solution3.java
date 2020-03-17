@@ -1,4 +1,4 @@
-package problems_2020_3;
+package toOffer;
 
 import java.util.Arrays;
 

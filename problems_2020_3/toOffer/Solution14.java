@@ -1,4 +1,4 @@
-package problems_2020_3;
+package toOffer;
 
 import java.util.Stack;
 /*输入一个链表，反转链表后，输出新链表的表头。
