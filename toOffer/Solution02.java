@@ -13,7 +13,7 @@ class ListNode {
 }
 
 /*输入一个链表，按链表从尾到头的顺序返回一个ArrayList。*/
-public class Solution2 {
+public class Solution02 {
 	public static ArrayList<Integer> printListFromTailToHead0(ListNode listNode) {
 		ArrayList<Integer> array = new ArrayList<Integer>();
 		while (listNode != null) {

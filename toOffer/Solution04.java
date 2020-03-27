@@ -3,7 +3,7 @@ package toOffer;
 import java.util.Stack;
 
 /*用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。*/
-public class Solution4 {
+public class Solution04 {
 	Stack<Integer> stack1 = new Stack<Integer>();	//存栈
 	Stack<Integer> stack2 = new Stack<Integer>();	//取栈
 	
@@ -25,7 +25,7 @@ public class Solution4 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Solution4 queue = new Solution4();
+		Solution04 queue = new Solution04();
 		for (int i = 0; i < 15; i++) {
 			queue.push(i);
 		}
